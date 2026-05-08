@@ -21,3 +21,5 @@ def main_menu():
             break
         else:
             print("Lựa chọn không hợp lệ, vui lòng thử lại.")
+if __name__ == "__main__":
+    main_menu()
