@@ -13,7 +13,7 @@ def display_students():
     if not students_list:
         print("Danh sách trống.")
     else:
-        print("\n--- DANH SÁCH SINH VIÊN ---")
+        print("\n--- DANH SÁCH SINH VIÊN -")
         for sv in students_list:
             print(sv)
 students_list = []
